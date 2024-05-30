@@ -55,13 +55,13 @@ form textarea {
 }
 
 form button {
-  background-color: #333;
+  background-color:#333;
   color: #fff;
   border: 2px solid #333;
   padding: 1rem;
-  text-transform: uppercase;
+  text-transform:uppercase;
 }
 
-.site-footer {
+footer {
   padding: 2rem 0;
 }
